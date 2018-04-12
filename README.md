@@ -40,7 +40,7 @@
 * `IPC`机制的实现的方式
 * 进程之间通讯方式和线程之间的通讯方式
 * `Activity`与`Fragment`及`Fragment`与`Fragment`之间的通讯方式
-* `Handler`机制的原理
+* [`Handler`机制的原理](https://github.com/showdy/AndroidInterview/blob/master/interviews/Android_Handler%E6%B6%88%E6%81%AF%E6%9C%BA%E5%88%B6.md)
 * `Android`为什么不能在子线程更新`UI`?
 * 谈谈`Android`主线程中`Looper`死循环为什么不会造成`ANR`?
 * `Activity`在正常下和异常情况下的生命周期
