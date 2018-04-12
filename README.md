@@ -57,8 +57,8 @@
 * `Android`性能优化之启动优化?
 * `Android`性能优化之网络优化?
 * `Android`性能优化之卡顿优化?
-* `Android`性能优化之内存优化?
-* `Android`性能优化之布局优化?
+* `Android`性能优化之内存优
+* [`Android`性能优化之布局优化?](https://github.com/showdy/AndroidInterview/blob/master/interviews/-Android_%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B9%8B%E5%B8%83%E5%B1%80%E4%BC%98%E5%8C%96.md)
 * 谈谈`Android6.0`之权限管理?
 * `HTTP`请求方式,状态码及请求头的理解?
 * `Https`理解及加密原理(对称加密与非对称加密)?
